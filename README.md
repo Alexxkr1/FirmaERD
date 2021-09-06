@@ -1,0 +1,2 @@
+# FirmaERD
+Andmebaasi Esimene Hindelinetöö
